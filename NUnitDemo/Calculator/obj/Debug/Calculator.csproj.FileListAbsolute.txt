@@ -1,0 +1,6 @@
+C:\Users\Yesbirs\source\repos\NUnitDemo\Calculator\bin\Debug\Calculator.dll
+C:\Users\Yesbirs\source\repos\NUnitDemo\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Yesbirs\source\repos\NUnitDemo\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yesbirs\source\repos\NUnitDemo\Calculator\obj\Debug\Calculator.dll
+C:\Users\Yesbirs\source\repos\NUnitDemo\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Yesbirs\source\repos\NUnitDemo\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
